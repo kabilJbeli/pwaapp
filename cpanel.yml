@@ -5,5 +5,3 @@
         - /bin/cp -r * $DEPLOYPATH
         - /bin/cp * $DEPLOYPATH
         - /bin cp * $DEPLOYPATH 
-        - /bin cp /fr/* $DEPLOYPATH
-        - /bin cp /en/* $DEPLOYPATH
