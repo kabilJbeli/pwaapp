@@ -4,4 +4,4 @@
         - export DEPLOYPATH=/home/kabiljbe/weather-pwa.kabiljbeli.tn/
         - /bin/cp -r * $DEPLOYPATH
         - /bin/cp * $DEPLOYPATH
-        - /bin cp * $DEPLOYPATH 
+        - /bin cp * $DEPLOYPATH

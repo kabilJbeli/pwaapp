@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599742015231,
+  "timestamp": 1599752530941,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -117,6 +117,7 @@
         "/main-es2015.d38dde441c7f51ac6cb7.js",
         "/main-es5.d38dde441c7f51ac6cb7.js",
         "/manifest.json",
+        "/ngsw-worker.js",
         "/polyfills-core-js-es2015.79ebeed52926c7a46d5b.js",
         "/polyfills-core-js-es5.79ebeed52926c7a46d5b.js",
         "/polyfills-css-shim-es2015.cb3ce672a1e335049b39.js",
@@ -127,7 +128,9 @@
         "/polyfills-es5.afb0bf591cd49c2db75a.js",
         "/runtime-es2015.7c2e23f129f806acae29.js",
         "/runtime-es5.7c2e23f129f806acae29.js",
-        "/styles.340e705ab47117e31cee.css"
+        "/safety-worker.js",
+        "/styles.340e705ab47117e31cee.css",
+        "/worker-basic.min.js"
       ],
       "patterns": []
     },
@@ -255,6 +258,7 @@
     "/main-es2015.d38dde441c7f51ac6cb7.js": "9631858cb8dd5bfe113aa47415ff7618d9cbeff0",
     "/main-es5.d38dde441c7f51ac6cb7.js": "297c86e6dde229d7fe74cd6ac470676ec9499c1b",
     "/manifest.json": "b66c7535bdf0e3242e6989e6a932d804562968f7",
+    "/ngsw-worker.js": "6670478ee6c59ce3db30f9719d926f178b3c1141",
     "/polyfills-core-js-es2015.79ebeed52926c7a46d5b.js": "f007c630c357ee7eeec2289a6cfc013dbcbe6fe9",
     "/polyfills-core-js-es5.79ebeed52926c7a46d5b.js": "8531ee642b05d9e12e859babeaec61c2b1c1e57a",
     "/polyfills-css-shim-es2015.cb3ce672a1e335049b39.js": "5ee260a7051a19dcf88aeaed726570fa19ac1d4c",
@@ -265,7 +269,9 @@
     "/polyfills-es5.afb0bf591cd49c2db75a.js": "64dddcc42e3a3e09aa55234ec88773fb8b35fab8",
     "/runtime-es2015.7c2e23f129f806acae29.js": "d57779a4a7c2ba90ef8a60b7c496fe7c5602d3de",
     "/runtime-es5.7c2e23f129f806acae29.js": "d606475cd321542e9befc5a27415326763dcc6e8",
-    "/styles.340e705ab47117e31cee.css": "e8e6cc9c382cd28c2b8e53d9d4f9ad2be73e5a64"
+    "/safety-worker.js": "69091ea3bc657ca553283fac2768aa67c586b372",
+    "/styles.340e705ab47117e31cee.css": "e8e6cc9c382cd28c2b8e53d9d4f9ad2be73e5a64",
+    "/worker-basic.min.js": "69091ea3bc657ca553283fac2768aa67c586b372"
   },
   "navigationUrls": [
     {
