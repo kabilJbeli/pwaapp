@@ -2,6 +2,6 @@
   deployment:
       tasks:
         - export DEPLOYPATH=/home/kabiljbe/weather-pwa.kabiljbeli.tn/
+        - /bin/cp -a * $DEPLOYPATH
         - /bin/cp -r * $DEPLOYPATH
-        - /bin/cp * $DEPLOYPATH
         - /bin cp * $DEPLOYPATH
